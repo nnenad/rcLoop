@@ -1,5 +1,5 @@
 var loop = 0;
-var numberOfLoops = 10;
+var numberOfLoops = 6;
 var loopInterval;
 colorArray = [];
 
